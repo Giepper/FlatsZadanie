@@ -3,18 +3,21 @@
     "nazwa": "mieszkanie1",
     "cena": 100000,
     "metraz": 100,
-    "zdjecie": "zdjecie1.png"
+    "pokoje": 6,
+    "zdjecie": "https://modernhouse-projekty.pl/wp-content/uploads/2024/01/Gotowy_projekt_domu_w_stylu_nowoczesnej_stodoly_NewHouse_753_01_dom_tani_w_budowie_-768x768.jpg"
   },
   {
     "nazwa": "mieszkanie2",
     "cena": 200000,
     "metraz": 150,
-    "zdjecie": "zdjecie1.png"
+    "pokoje": 4,
+    "zdjecie": "https://media.studioatrium.pl/project/1187/modern-house-ii-wizualizacja-622742b5e1093.jpg"
   },
   {
     "nazwa": "mieszkanie3",
     "cena": 80000,
     "metraz": 50,
-    "zdjecie": "zdjecie1.png"
+    "pokoje": 8,
+    "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Big_single-family_home_2.jpg/640px-Big_single-family_home_2.jpg"
   }
 ]

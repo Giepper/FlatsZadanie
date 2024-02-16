@@ -19,6 +19,10 @@ const StyledImgContainer = styled.div`
   width: 40%;
   height: 200px;
 `;
+const StyledImg = styled.img`
+  width: 100%;
+  height: 100%;
+`;
 const StyledInfoContainer = styled.div`
   width: 60%;
   height: 100%;
@@ -29,7 +33,9 @@ const Announcement = () => {
     <>
       <StyledContainer>
         <StyledAnnoucement>
-          <StyledImgContainer></StyledImgContainer>
+          <StyledImgContainer>
+            <StyledImg />
+          </StyledImgContainer>
           <StyledInfoContainer></StyledInfoContainer>
         </StyledAnnoucement>
       </StyledContainer>

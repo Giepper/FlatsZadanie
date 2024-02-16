@@ -1,12 +1,13 @@
 import "./App.css";
 import FlatList from "./json/json_cmp";
-import Announcement from "./announcement";
+import Header from "./header";
 
 function App() {
   return (
     <>
+      <Header />
+
       <FlatList />
-      <Announcement />
     </>
   );
 }
