@@ -1,0 +1,20 @@
+[
+  {
+    "nazwa": "mieszkanie1",
+    "cena": 100000,
+    "metraz": 100,
+    "zdjecie": "zdjecie1.png"
+  },
+  {
+    "nazwa": "mieszkanie2",
+    "cena": 200000,
+    "metraz": 150,
+    "zdjecie": "zdjecie1.png"
+  },
+  {
+    "nazwa": "mieszkanie3",
+    "cena": 80000,
+    "metraz": 50,
+    "zdjecie": "zdjecie1.png"
+  }
+]
